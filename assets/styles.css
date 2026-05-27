@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5 {
 .hero-flag {
   position: absolute;
   inset: 0;
-  background-image: url('sd-flag.png');
+  background-image: url('sd-flag.jpg');
   background-size: cover;
   background-position: center 30%;
   background-repeat: no-repeat;
